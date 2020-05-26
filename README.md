@@ -7,6 +7,7 @@ This relationship is assumed to be linear and thus we use Gradient Descent Algor
 I have given the code for python's function which directly does this job and an equivalent hand-written code for the same.
 
 The code I have written imports a class from linreg.py file which is included in this repository.
+
 CONCLUSION:
 At the end of the day, when you create a model, you use training data. Then you start feeding test data (real observations) to see how well the model actually works. You may find that the model is a little inaccurate over time, in which case you retrain the model with some new data. Retraining the model means you're creating a new fit line that's used for predictions.
 
