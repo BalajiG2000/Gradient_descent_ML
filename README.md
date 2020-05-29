@@ -1,7 +1,7 @@
 # Gradient_descent_ML
 This is a linear regression Machine Learning model which I have created with Coursera' s guided project. This is based on the "chirps dataset" which has 'X' variable as number of chirps by a cricket and 'Y' as the temperature.
 
-In this example we're using the count of chirps per minute as the independent varible to then predict the dependent variable, temperature. In short, we're using a little data science to make ourselves a cricket thermometer.
+In this example we're using the count of chirps per minute as the independent variable to then predict the dependent variable, temperature. In short, we're using a little data science to make ourselves a cricket thermometer.
 
 This relationship is assumed to be linear and thus we use Gradient Descent Algorithm to reduce the loss function.
 I have given the code for python's function which directly does this job and an equivalent hand-written code for the same.
